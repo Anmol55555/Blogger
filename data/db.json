@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "1st Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium. 1st Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium. 1st Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party!",
+      "body": "2nd Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium. 1st Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium. 1st Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium. 1st Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quidem ad quibusdam asperiores impedit cumque neque, voluptatem id aliquam ratione non consequuntur doloremque obcaecati officia vero explicabo placeat repellendus illum distinctio adipisci. Voluptates delectus quo sunt magnam. Illum ab ut, eaque id voluptatem ex aperiam libero in deserunt sint qui omnis, ducimus nihil cum officiis quos totam, perferendis distinctio hic labore odio similique laudantium.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Sunday Meeting!",
+      "body": "This sunday we have to scheduled a meeting at 2 o'clock in the morning. This is a very imp meeting and you should attend that as it will impact your career very greatly.\nSo I guess I'll see you at the meeting.\nTill then take care.",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "fdhbdgh",
+      "body": "hbtghbrtgh",
+      "author": "hstrhrth",
+      "id": 6
+    }
+  ]
+}
